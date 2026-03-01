@@ -1,19 +1,10 @@
-<div align="center" style="background:#0d1117; color:#00ff00; font-family: 'Courier New', monospace; padding:20px; border-radius:10px;">
-  <pre>
-  ╔══════════════════════════════════════╗
-  ║   andrey@github:~$ whoami            ║
-  ║   ➜ Full‑stack developer             ║
-  ║   ➜ Node.js / Next.js / Prisma       ║
-  ║   ➜ TypeScript / JavaScript          ║
-  ╚══════════════════════════════════════╝
-  </pre>
-  <samp>
-    >_ last login: сегодня в 12:34<br>
-    >_ uptime: 5 лет в разработке<br>
-    >_ projects: 15+ репозиториев<br>
-  </samp>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Андрей;Full-stack+developer;Node.js+%7C+Next.js+%7C+Prisma" />
   <br>
-  <!-- Значки в стиле меток -->
-  <img src="https://img.shields.io/badge/status-active-success?style=flat-square&labelColor=black&color=00ff00" />
-  <img src="https://img.shields.io/badge/version-2.0.0-blue?style=flat-square&labelColor=black&color=00ff00" />
+  <samp>
+    <a href="https://github.com/Kurganov1993">github.com/Kurganov1993</a>
+  </samp>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kurganov1993&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurganov1993&layout=compact&hide_border=true&bg_color=00000000" width="300" />
 </div>
