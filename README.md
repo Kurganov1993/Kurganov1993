@@ -15,7 +15,6 @@
     <br>
     💬  Спроси меня о JavaScript, React, базах данных.
     <br>
-    📫  Связь: [telegram](https://t.me/your_nick) | [email](mailto:your@email.com)
   </samp>
   <br><br>
 
