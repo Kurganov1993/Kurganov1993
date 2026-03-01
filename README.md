@@ -1,24 +1,20 @@
-<div align="center">
-  <!-- Анимированный баннер -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Andrey;Full-stack+developer" />
-  </a>
+<div align="center" style="background: linear-gradient(145deg, #0b0f1a 0%, #1a1f2f 100%); padding: 30px; border-radius: 20px; color: white; font-family: 'Fira Code', monospace;">
+  <h2>✨ Андрей ✨</h2>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
   <br><br>
-  <!-- Иконки технологий (большие, цветные) -->
+  <samp>
+    <b style="color:#ff79c6;">>_</b> full‑stack developer<br>
+    <b style="color:#50fa7b;">⧩</b> node.js / next.js / prisma<br>
+    <b style="color:#bd93f9;">⎇</b> typescript / javascript<br>
+  </samp>
+  <br>
+  <!-- Badges в тёмном стиле -->
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2b2b2b" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=2b2b2b" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=2b2b2b" />
   </div>
   <br>
-  <!-- Короткое описание -->
-  <samp>
-    💻 Пишу код с 2018 года.<br>
-    🚀 В работе использую современные технологии.<br>
-    📚 Сейчас изучаю микросервисы и Kubernetes.
-  </samp>
+  <!-- Статистика в тёмной теме -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kurganov1993&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
 </div>
