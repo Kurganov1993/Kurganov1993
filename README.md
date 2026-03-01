@@ -1,14 +1,19 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
-  <h2>👨‍💻 Андрей — тот самый</h2>
+<div align="center" style="background:#0d1117; color:#00ff00; font-family: 'Courier New', monospace; padding:20px; border-radius:10px;">
+  <pre>
+  ╔══════════════════════════════════════╗
+  ║   andrey@github:~$ whoami            ║
+  ║   ➜ Full‑stack developer             ║
+  ║   ➜ Node.js / Next.js / Prisma       ║
+  ║   ➜ TypeScript / JavaScript          ║
+  ╚══════════════════════════════════════╝
+  </pre>
   <samp>
-    🍕 Ем пиццу, пью кофе, пишу код.<br>
-    🛠️ Инструменты: 
-    <img src="https://img.shields.io/badge/⚡-Node.js-green?style=flat-square" />
-    <img src="https://img.shields.io/badge/🔥-Next.js-black?style=flat-square" />
-    <img src="https://img.shields.io/badge/💎-TypeScript-blue?style=flat-square" /><br>
-    📫 Для связи: напишите issue на GitHub 😉
+    >_ last login: сегодня в 12:34<br>
+    >_ uptime: 5 лет в разработке<br>
+    >_ projects: 15+ репозиториев<br>
   </samp>
-  <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card" />
+  <br>
+  <!-- Значки в стиле меток -->
+  <img src="https://img.shields.io/badge/status-active-success?style=flat-square&labelColor=black&color=00ff00" />
+  <img src="https://img.shields.io/badge/version-2.0.0-blue?style=flat-square&labelColor=black&color=00ff00" />
 </div>
