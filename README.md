@@ -2,7 +2,7 @@
   <h2>👋 Привет, меня зовут Андрей</h2>
   
   <!-- Анимированная гифка -->
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <br>
 
   <!-- Анимированная строка -->
