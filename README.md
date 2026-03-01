@@ -20,14 +20,6 @@
   </samp>
   <br><br>
 
-  <!-- Контакты (замените на свои) -->
-  <div>
-    <a href="https://t.me/your_nick"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
-  <br>
-
   <!-- Заголовок стека технологий -->
   <samp><b>🛠 Мой стек технологий</b></samp>
   <br><br>
