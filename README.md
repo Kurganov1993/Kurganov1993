@@ -1,16 +1,16 @@
   <div align="center">
-      <h2>Hi! My name is Hasibul Hasan Rokib 😄</h2>   
+      <h2Привет, меня зовут Андрей 😄</h2>   
       <br>
       <!-- Intro -->
       <samp>
-        🌍  I am a full-stack developer.
+        🌍  Я фулл-стек разработчик.
         <br>
-        🌱 I’m currently  working on Node.js, Next.js & Prisma 
+        🌱 работаю с Node.js, Next.js и Prisma 
         <br>
       </samp>
       <br/>
       <samp>
-        My Teck Stacks:
+        Сой стек:
         <br>
         <br>
       </samp>
