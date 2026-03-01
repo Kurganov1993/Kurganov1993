@@ -58,12 +58,7 @@
   </div>
   <br>
 
-  <!-- Статистика GitHub (замените Kurganov1993 на ваш логин) -->
-  <samp><b>📊 GitHub статистика</b></samp>
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurganov1993&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurganov1993&layout=compact&hide_border=true&theme=darcula&bg_color=00000000" />
-  <br>
+
 
   <!-- Дополнительная анимация (опционально) -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
