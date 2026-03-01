@@ -1,11 +1,14 @@
 <div align="center">
-  <h2>📌 Мои проекты</h2>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <h2>👨‍💻 Андрей — тот самый</h2>
   <samp>
-    <a href="https://github.com/Kurganov1993/project1">project1</a> – описание проекта 1<br>
-    <a href="https://github.com/Kurganov1993/project2">project2</a> – описание проекта 2<br>
-    <a href="https://github.com/Kurganov1993/project3">project3</a> – описание проекта 3<br>
+    🍕 Ем пиццу, пью кофе, пишу код.<br>
+    🛠️ Инструменты: 
+    <img src="https://img.shields.io/badge/⚡-Node.js-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/🔥-Next.js-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/💎-TypeScript-blue?style=flat-square" /><br>
+    📫 Для связи: напишите issue на GitHub 😉
   </samp>
-  <br>
-  <h2>📈 GitHub активность</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurganov1993&theme=react-dark&bg_color=00000000&hide_border=true" width="90%" />
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card" />
 </div>
