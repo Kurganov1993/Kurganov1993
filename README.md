@@ -73,20 +73,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   <br>
   
-  <!-- Статистика и Streak -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurganov1993&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurganov1993&layout=compact&hide_border=true&theme=darcula&bg_color=00000000" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurganov1993&theme=darcula&hide_border=true" />
-
-  <!-- График активности (опционально) -->
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurganov1993&theme=react-dark&bg_color=00000000&hide_border=true" width="90%" />
-
-  <!-- Счётчик посещений -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Kurganov1993&style=for-the-badge&color=blueviolet" />
-  
   <!-- Забавная гифка в конце -->
   <br>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
