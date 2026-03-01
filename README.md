@@ -27,13 +27,6 @@
   </samp>
   <br><br>
 
-  <!-- Социальные ссылки с анимацией при наведении (стили через inline не работают, но можно использовать внешний CSS, здесь просто ссылки) -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <a href="https://t.me/your_nick"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" /></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" /></a>
-  </div>
-
   <!-- Разделитель с градиентом -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" style="margin: 20px 0;" />
 
@@ -85,42 +78,3 @@
   </div>
   <br>
 
-  <!-- Дополнительно: примеры проектов или текущая работа -->
-  <h3>🚀 Мои проекты</h3>
-  <samp>
-    🔹 <a href="https://github.com/Kurganov1993/project1">Project Name 1</a> – краткое описание<br>
-    🔹 <a href="https://github.com/Kurganov1993/project2">Project Name 2</a> – краткое описание<br>
-    🔹 <a href="https://github.com/Kurganov1993/project3">Project Name 3</a> – краткое описание
-  </samp>
-  <br><br>
-
-  <!-- Разделитель -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-  <!-- GitHub Trophy -->
-  <h3>🏆 Достижения</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kurganov1993&theme=onedark&row=1&column=6&no-frame=true&no-bg=true" />
-  </a>
-  <br><br>
-
-  <!-- Статистика GitHub (карточки в ряд) -->
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurganov1993&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurganov1993&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8" />
-  </div>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurganov1993&theme=darcula&hide_border=true" />
-
-  <!-- График активности -->
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kurganov1993&theme=react-dark&bg_color=00000000&hide_border=true&area=true" width="95%" />
-
-  <!-- Счётчик посещений профиля -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Kurganov1993&style=for-the-badge&color=blueviolet&label=ПРОСМОТРЫ" />
-  
-  <!-- Забавная гифка в конце -->
-  <br><br>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" style="border-radius: 20px;" />
-</div>
