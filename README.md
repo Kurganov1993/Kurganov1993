@@ -14,7 +14,6 @@
     🌱  Сейчас работаю с Node.js, Next.js и Prisma.
     <br>
     💬  Спроси меня о JavaScript, React, базах данных.
-    <br>
   </samp>
   <br><br>
 
