@@ -73,7 +73,4 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   <br>
   
-  <!-- Забавная гифка в конце -->
-  <br>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-</div>
+  
